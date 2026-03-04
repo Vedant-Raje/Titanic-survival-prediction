@@ -32,7 +32,7 @@ Five distinct classification algorithms were implemented and evaluated using the
 * **XGBoost:** Utilized for high-performance gradient boosting.
 
 ## 📂 File Structure
-* `notebook6d17e35d2e.ipynb`: Main analysis and modeling notebook.
+* `Titanic Survival Prediction.ipynb`: Main analysis and modeling notebook.
 * `/kaggle/input/titanic/`: Source dataset files (`train.csv`, `test.csv`).
 
 ## 📈 Results Summary
